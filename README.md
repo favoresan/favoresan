@@ -1,5 +1,5 @@
 <h1 align='center'>Hi there 👋🏾 </h1>
-<h3 align='center'>I am a Flutter developer👻.</h3>
+<h3 align='center'>I'm a Software Engineer building production-level Flutter mobile applications.</h3>
 <p align='center'>
 <a href="mailto:esanfavour@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
